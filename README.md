@@ -5,7 +5,12 @@ I'm Tri Tran, a Web Developer
 - 🌱 I’m currently learning MERN
 - 🔭 I’m currently working on Legion Y540
 
+<center>
+
 ## Technologies and Tools
+
+</center>
+
 
 ![PHP](https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4 "PHP")
 ![PowerShell](https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE "PowerShell")
@@ -24,7 +29,11 @@ I'm Tri Tran, a Web Developer
 ![Neovim](https://img.shields.io/badge/Neovim-282C34?logo=neovim&logoColor=57A143 "Neovim")
 ![VSCode](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC "VSCode")
 
+<center>
+
 ## Find me at
+
+</center>
 
 <center>
 
