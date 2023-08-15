@@ -5,7 +5,6 @@ I'm Tri Tran, a Web Developer
 - 🌱 I’m currently learning MERN
 - 🔭 I’m currently working on Legion Y540
 
-
 <h2 align="center">Technologies and Tools</h2>
 
 <div style="display: flex; justify-content: center; margin: 0 auto; flex-wrap: wrap;">
@@ -30,8 +29,8 @@ I'm Tri Tran, a Web Developer
 <h2 align="center">Find me at</h2>
 
 <div style="display: flex; justify-content: center;" align="center">
-    <a href="https://www.facebook.com/tri.tran.940"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/facebook.png" alt="facebook" /></a>
-    <a href="https://www.linkedin.com/in/tran-tri-851541108/"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" /></a>
-    <a href="mailto:inpro2710@gmail.com"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/apple-mail.png" alt="apple-mail" /></a>
-    <a href="https://minhtri2710.vercel.app/"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Terminal" /></a>
+    <a href="https://www.facebook.com/tri.tran.940" target="_blank" rel="noopener"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/facebook.png" alt="facebook" /></a>
+    <a href="https://www.linkedin.com/in/tran-tri-851541108/" target="_blank" rel="noopener"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png" alt="linkedin" /></a>
+    <a href="mailto:inpro2710@gmail.com" target="_blank" rel="noopener"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/apple-mail.png" alt="apple-mail" /></a>
+    <a href="https://minhtri2710.vercel.app/" target="_blank" rel="noopener"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/console.png" alt="Terminal" /></a>
 </div>
