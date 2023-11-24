@@ -23,6 +23,7 @@ I'm Tri Tran, a Web Developer
     <span style="margin: 0 3px;"><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" title="ESLint" /></span>
     <span style="margin: 0 3px;"><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" title="Git" /></span>
     <span style="margin: 0 3px;"><img src="https://img.shields.io/badge/Neovim-282C34?logo=neovim&logoColor=57A143" title="Neovim" /></span>
+    <span style="margin: 0 3px;"><img src="https://img.shields.io/badge/Zend%20Framework-282C34?logo=zend-framework&logoColor=57A143" title="Neovim" /></span>
     <span style="margin-left: 3px;"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" title="VSCode" /></span>
 </div>
 
