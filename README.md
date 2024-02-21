@@ -5,6 +5,8 @@ I'm Tri Tran, a Web Developer
 - 🌱 I’m currently learning MERN
 - 🔭 I’m currently working on Legion Y540
 
+<a href="https://app.daily.dev/tritran2710"><img src="https://api.daily.dev/devcards/v2/G8moHeHpupmD00qfMBFak.png?r=y7c" width="356" alt="Trần Minh Trí's Dev Card"/></a>
+
 <h2 align="center">Technologies and Tools</h2>
 
 <div style="display: flex; justify-content: center; margin: 0 auto; flex-wrap: wrap;">
