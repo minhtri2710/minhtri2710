@@ -3,7 +3,7 @@
 I'm Tri Tran, a Web Developer
 
 - 🌱 I’m currently learning MERN
-- 🔭 I’m currently working on Legion Y540
+- 🔭 I’m currently working on Legion Y540 and Wife's Macbook Pro 😂
 
 <a href="https://app.daily.dev/tritran2710"><img src="https://raw.githubusercontent.com/minhtri2710/minhtri2710/main/devcard.png" width="652" alt="Trần Minh Trí's Dev Card"/></a>
 
