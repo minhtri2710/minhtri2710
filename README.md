@@ -3,7 +3,7 @@
 I'm Tri Tran, a Web Developer
 
 - 🌱 I’m currently learning MERN
-- 🔭 I’m currently working on Legion Y540 and Wife's Macbook Pro 😂
+- 🔭 I’m currently working on Legion Y540 and my Wife's Macbook Pro 😂
 
 ```lua:
 local tritranOS = {
