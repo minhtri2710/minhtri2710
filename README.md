@@ -3,13 +3,13 @@
 I'm Tri Tran, a Web Developer
 
 - 🌱 I’m currently learning MERN
-- 🔭 I’m currently working on Legion Y540 and my Wife's Macbook Pro 😂
+- 🔭 I’m currently working on Legion Y540 and my Wife's Macbook Pro 15' 2017 😂
 
 ```lua:
 local tritranOS = {
   terminal= "Alacritty | Windows Terminal"
   os= "macOS | Windows"
-  shell= "zsh | pwsh"
+  shell= "fish | pwsh"
   colorscheme= "TokyoNight_Storm | Solarized Osaka"
 }
 ```
