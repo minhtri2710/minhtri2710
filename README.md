@@ -7,10 +7,10 @@ I'm Tri Tran, a Web Developer
 
 ```lua:
 local tritranOS = {
-  terminal= "Alacritty | Windows Terminal"
+  terminal= "Wezterm"
   os= "macOS | Windows"
   shell= "fish | pwsh"
-  colorscheme= "TokyoNight_Storm | Solarized Osaka"
+  colorschemes= "TokyoNight_Storm | Solarized Osaka"
 }
 ```
 
