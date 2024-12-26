@@ -9,7 +9,7 @@ I'm Tri Tran, a Web Developer
 local tritranOS = {
   terminal= "Wezterm"
   os= "macOS | Windows"
-  shell= "fish | pwsh"
+  shell= "fish | pwsh | nushell"
   colorschemes= "TokyoNight_Storm | Solarized Osaka"
 }
 ```
